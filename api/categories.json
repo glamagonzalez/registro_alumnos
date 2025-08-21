@@ -1,0 +1,46 @@
+[
+  {
+    "id": 1,
+    "name": "Informática"
+  },
+  {
+    "id": 2,
+    "name": "Administración y Negocios"
+  },
+  {
+    "id": 3,
+    "name": "Ciencias Sociales y Humanidades"
+  },
+  {
+    "id": 4,
+    "name": "Educación"
+  },
+  {
+    "id": 5,
+    "name": "Turismo y Hotelería"
+  },
+  {
+    "id": 6,
+    "name": "Medio Ambiente y Sustentabilidad"
+  },
+  {
+    "id": 7,
+    "name": "Ingeniería y Técnica"
+  },
+  {
+    "id": 8,
+    "name": "Salud y Bienestar"
+  },
+  {
+    "id": 9,
+    "name": "Arte y Diseño"
+  },
+  {
+    "id": 10,
+    "name": "Nutrición y Dietética"
+  },
+  {
+    "id": 11,
+    "name": "Logística"
+  }
+]

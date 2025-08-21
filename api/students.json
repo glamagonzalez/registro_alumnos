@@ -1,1 +1,77 @@
-[]
+[
+  {
+    "id": 3,
+    "name": "skaksak",
+    "career": "Ingeniería de Software"
+  },
+  {
+    "id": 5,
+    "name": "dihuen",
+    "career": "sisiis"
+  },
+  {
+    "id": 6,
+    "name": "juan",
+    "career": "Ciencias de la Computación"
+  },
+  {
+    "id": 7,
+    "name": "lalalsla",
+    "career": "Ingeniería de Software"
+  },
+  {
+    "id": 8,
+    "name": "enzo",
+    "career": "Ciencia de Datos"
+  },
+  {
+    "id": 9,
+    "name": "pepe",
+    "career": "Ciencias de la Computación"
+  },
+  {
+    "id": 10,
+    "name": "julian",
+    "career": "Ciencias de la Computación"
+  },
+  {
+    "id": 12,
+    "name": "González",
+    "career": "Licenciatura en Administración"
+  },
+  {
+    "id": 13,
+    "name": "Hernán Vivas",
+    "career": "Licenciatura en Higiene y Seguridad en el Trabajo"
+  },
+  {
+    "id": 14,
+    "name": "Lucas Vivas",
+    "career": "Licenciatura en Psicología"
+  },
+  {
+    "id": 15,
+    "name": "Gladys González",
+    "career": "Diplomatura en Big Data"
+  },
+  {
+    "id": 16,
+    "name": "Silvina González",
+    "career": "Licenciatura en Comunicación Social"
+  },
+  {
+    "id": 17,
+    "name": "Alicia Gonzalez",
+    "career": "Licenciatura en Nutrición"
+  },
+  {
+    "id": 18,
+    "name": "Alfonsina Vivas",
+    "career": "Licenciatura en Nutrición"
+  },
+  {
+    "id": 19,
+    "name": "ffffff",
+    "career": "Licenciatura en Diseño Gráfico"
+  }
+]

@@ -1,0 +1,206 @@
+[
+  {
+    "id": 1,
+    "name": "Licenciatura en Administración",
+    "description": "Formación en gestión, finanzas, marketing y recursos humanos.",
+    "categoryId": 2
+  },
+  {
+    "id": 2,
+    "name": "Licenciatura en Psicología",
+    "description": "Estudio del comportamiento humano y salud mental.",
+    "categoryId": 8
+  },
+  {
+    "id": 3,
+    "name": "Licenciatura en Trabajo Social",
+    "description": "Intervención profesional en problemáticas sociales y comunitarias.",
+    "categoryId": 8
+  },
+  {
+    "id": 4,
+    "name": "Licenciatura en Turismo",
+    "description": "Gestión del turismo sostenible y planificación de destinos.",
+    "categoryId": 5
+  },
+  {
+    "id": 5,
+    "name": "Licenciatura en Higiene y Seguridad en el Trabajo",
+    "description": "Gestión de prevención de riesgos laborales en entornos profesionales.",
+    "categoryId": 7
+  },
+  {
+    "id": 6,
+    "name": "Licenciatura en Ciencias de la Educación",
+    "description": "Análisis y diseño de políticas y prácticas educativas.",
+    "categoryId": 4
+  },
+  {
+    "id": 7,
+    "name": "Ingeniería en Sistemas de Información",
+    "description": "Desarrollo e integración de sistemas informáticos complejos.",
+    "categoryId": 1
+  },
+  {
+    "id": 8,
+    "name": "Licenciatura en Comunicación Social",
+    "description": "Estudio de los procesos comunicacionales y medios masivos.",
+    "categoryId": 3
+  },
+  {
+    "id": 9,
+    "name": "Licenciatura en Diseño Gráfico",
+    "description": "Diseño visual, branding y comunicación gráfica.",
+    "categoryId": 9
+  },
+  {
+    "id": 10,
+    "name": "Licenciatura en Nutrición",
+    "description": "Asesoramiento nutricional y salud pública.",
+    "categoryId": 10
+  },
+  {
+    "id": 11,
+    "name": "Tecnicatura en Programación",
+    "description": "Desarrollo de software y aplicaciones.",
+    "categoryId": 1
+  },
+  {
+    "id": 12,
+    "name": "Tecnicatura en Redes Informáticas",
+    "description": "Administración y configuración de infraestructuras de red.",
+    "categoryId": 1
+  },
+  {
+    "id": 13,
+    "name": "Diplomatura en Marketing Digital",
+    "description": "Publicidad online, redes sociales y posicionamiento web.",
+    "categoryId": 2
+  },
+  {
+    "id": 14,
+    "name": "Diplomatura en Big Data",
+    "description": "Análisis y gestión de grandes volúmenes de datos.",
+    "categoryId": 1
+  },
+  {
+    "id": 15,
+    "name": "Diplomatura en Energías Renovables",
+    "description": "Energía solar, eólica y sustentabilidad energética.",
+    "categoryId": 6
+  },
+  {
+    "id": 16,
+    "name": "Diplomatura en Gestión Ambiental",
+    "description": "Sustentabilidad, legislación ambiental y manejo de residuos.",
+    "categoryId": 6
+  },
+  {
+    "id": 17,
+    "name": "Tecnicatura en Administración Pública",
+    "description": "Gestión administrativa y políticas públicas.",
+    "categoryId": 2
+  },
+  {
+    "id": 18,
+    "name": "Tecnicatura en Mantenimiento Industrial",
+    "description": "Mantenimiento predictivo y correctivo de instalaciones industriales.",
+    "categoryId": 7
+  },
+  {
+    "id": 19,
+    "name": "Tecnicatura en Gestión Ambiental",
+    "description": "Sustentabilidad, legislación ambiental y manejo de residuos.",
+    "categoryId": 6
+  },
+  {
+    "id": 20,
+    "name": "Diplomatura en Inteligencia Artificial Aplicada",
+    "description": "Uso práctico de IA en empresas y organizaciones.",
+    "categoryId": 1
+  },
+  {
+    "id": 21,
+    "name": "Diplomatura en Programación Web Full Stack",
+    "description": "Desarrollo web con frontend y backend.",
+    "categoryId": 1
+  },
+  {
+    "id": 22,
+    "name": "Diplomatura en Gestión de Recursos Humanos",
+    "description": "Procesos de selección, formación y relaciones laborales.",
+    "categoryId": 2
+  },
+  {
+    "id": 23,
+    "name": "Diplomatura en Gestión Cultural",
+    "description": "Diseño y gestión de proyectos culturales.",
+    "categoryId": 8
+  },
+  {
+    "id": 24,
+    "name": "Diplomatura en Desarrollo Local y Economía Social",
+    "description": "Gestión de iniciativas locales con enfoque social y solidario.",
+    "categoryId": 8
+  },
+  {
+    "id": 25,
+    "name": "Diplomatura en Energías Renovables",
+    "description": "Energía solar, eólica y sustentabilidad energética.",
+    "categoryId": 6
+  },
+  {
+    "id": 26,
+    "name": "Diplomatura en Marketing Digital",
+    "description": "Publicidad online, redes sociales y posicionamiento web.",
+    "categoryId": 2
+  },
+  {
+    "id": 27,
+    "name": "Diplomatura en Políticas Públicas y Territorio",
+    "description": "Análisis territorial y diseño de políticas públicas.",
+    "categoryId": 8
+  },
+  {
+    "id": 28,
+    "name": "hhh",
+    "description": "dddd",
+    "categoryId": 10
+  },
+  {
+    "id": 29,
+    "name": "ingeniero Agronomo",
+    "description": "Analisis de suelo",
+    "categoryId": 7
+  },
+  {
+    "id": 30,
+    "name": "ingeniero Agrónomo",
+    "description": "mejora la producción agrícola",
+    "categoryId": 7
+  },
+  {
+    "id": 31,
+    "name": "abogado",
+    "description": "defensa de derechos",
+    "categoryId": 3
+  },
+  {
+    "id": 32,
+    "name": "dddddd",
+    "description": "ddddd",
+    "categoryId": 2
+  },
+  {
+    "id": 33,
+    "name": "eeeeddd",
+    "description": "dddf",
+    "categoryId": 4
+  },
+  {
+    "id": 34,
+    "name": "fffffff",
+    "description": "ff",
+    "categoryId": 6
+  }
+]

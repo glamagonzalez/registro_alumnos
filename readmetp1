@@ -1,0 +1,56 @@
+* INFORME SOBRE EL USO DE INTELIGENCIA ARTIFICIAL EN EL DESARROLLO DE ESTE PROYECTO
+ *
+ * Durante el desarrollo de este trabajo práctico, se ha utilizado un modelo de Lenguaje Grande (LLM)
+ * para optimizar y asistir en diversas tareas, acelerando el avance y mejorando la calidad del código.
+ *
+ * 1. Modelo de IA Utilizado:
+ * - Gemini (Google AI)
+ *
+ * 2. Prompts Clave y Resultados Positivos:
+ * A continuación, se detallan algunos de los prompts específicos y cómo contribuyeron al desarrollo:
+ *
+ * a) Generación de Estructura HTML Base y Navegación:
+ * - Prompt: "Genera el código HTML base para tres páginas: 'estudiantes.html', 'carreras.html' y 'categorias.html'.
+ * Cada una debe incluir una estructura básica con head, body y un navbar simple
+ * que permita la navegación entre ellas y a una página principal 'index.html'.
+ * Asegúrate de que los enlaces sean correctos."
+ * - Resultado Positivo: Proporcionó rápidamente la estructura inicial necesaria para cada página,
+ * ahorrando tiempo en la configuración básica y asegurando una navegación consistente
+ * desde el principio. Esto permitió centrarse en la lógica específica de cada sección.
+ *
+ * b) Asistencia en la Creación de Funciones CRUD para el Frontend (app.js):
+ * - Prompt: "Necesito una función JavaScript para 'app.js' que maneje la obtención de todos los estudiantes
+ * de una API RESTful (ej. 'http://localhost:3000/students') y los muestre en una tabla HTML.
+ * Incluye manejo de errores y un indicador de carga."
+ * - Resultado Positivo: Ayudó a estructurar funciones asíncronas para interactuar con la API.
+ * Se obtuvieron bases para funciones como `fetchStudents()`, `addStudent()`,
+ * `deleteStudent()`, `fetchCareers()` y `fetchCategories()`, incluyendo la lógica
+ * para manejar las respuestas y errores de la API. Esto fue crucial para la integración
+ * con el backend.
+ *
+ * c) Optimización de Código y Refactorización:
+ * - Prompt: "Revisa el siguiente bloque de código JavaScript para `app.js`. Busca oportunidades para
+ * refactorizarlo, mejorar la legibilidad y aplicar buenas prácticas. [Insertar bloque de código]"
+ * - Resultado Positivo: Identificó áreas para simplificar el código, usar `async/await` de forma más efectiva,
+ * y aplicar principios de DRY (Don't Repeat Yourself). Esto mejoró la mantenibilidad y
+ * el rendimiento de la aplicación.
+ *
+ * d) Sugerencias para el Estilado con Bootstrap 5:
+ * - Prompt: "Proporciona ejemplos de clases de Bootstrap 5 para crear un formulario de registro de estudiantes
+ * con campos para nombre y carrera (desplegable), y botones para guardar y cancelar.
+ * También, cómo estructurar una tabla para mostrar los datos de los estudiantes."
+ * - Resultado Positivo: Ofreció directrices sobre cómo aplicar las clases de Bootstrap para un diseño responsivo
+ * y estético, facilitando la implementación de la interfaz de usuario de manera eficiente.
+ *
+ * e) Resolución de Errores Comunes de JavaScript/API:
+ * - Prompt: "Estoy recibiendo un error 'Failed to fetch' al intentar hacer una petición GET a mi API local.
+ * Revisa mi función `fetchData()` y sugiere posibles causas o depuraciones. [Insertar función]"
+ * - Resultado Positivo: Ayudó a diagnosticar y solucionar problemas comunes de CORS, rutas de API incorrectas,
+ * o errores en el manejo de promesas, lo que aceleró el proceso de depuración.
+ *
+ * Conclusión:
+ * El uso del modelo de IA ha sido una herramienta valiosa para la generación de código boilerplate, la propuesta
+ * de estructuras funcionales, la optimización de código y la asistencia en la depuración. Esto ha permitido
+ * una implementación más eficiente y robusta de la lógica del frontend, cumpliendo con los requisitos del proyecto.
+ */
+ 
